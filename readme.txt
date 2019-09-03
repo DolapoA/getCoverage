@@ -49,4 +49,4 @@ i.e. - ~/getCoverage/results/data_name/sample_1/spades/contigs.fasta
      - ~/getCoverage/results/data_name/sample_1/qualimap/sample_1_qualimapResult/qualimapReport.html
 
 
-# Dolapo Ajayi, August 2018 - Contact: dolaajayi@hotmail.com
+# Dolapo Ajayi, August 2018
